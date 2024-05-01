@@ -1,4 +1,4 @@
-public class Hairetu {
+public class Hairetu1 {
     public static void main(String[] args) {
         // 点数を配列に格納
         int[] scores = {20, 30, 45, 35};
